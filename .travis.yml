@@ -3,7 +3,7 @@ rvm:
  - 2.2.3
 script: bundle exec jekyll build
 install: bundle install
-after_success: bundle exec s3_website push --headless
+after_success: bundle exec s3_website push
 env:
   global:
   - secure: fKVFv9a4bY/XEX7BY/EuL466sWHMTLEwPqKq7X/Ssqp8GfTTkVPk7WzMVlGzkSstv4n9CBgp1oSVkJbuBFVDHIH4K/rO/CJkBxWrJw7dyghOAEweDTVH6dRinv2gBxF5iFgdgzt8B8G4N0Q08Mmy8rMBq81f6bW+AmqZFA1K5nk=
