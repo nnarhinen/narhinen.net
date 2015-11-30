@@ -3,7 +3,7 @@ layout: post
 title:  "Alkusoitto"
 date:   2015-11-30 21:28
 categories: meta
-image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
+image: /assets/article_images/desktop.jpg
 ---
 
 Tästä saa alkunsa toivottavasti jotain suurta ja mahtavaa. Uutta ainakin, jos ei muuta.
