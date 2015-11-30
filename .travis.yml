@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-- 2.0.0p0
+ - 2.2.3
 script: bundle exec jekyll build
 install: bundle install
 after_success: bundle exec s3_website_push --headless
