@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Yrityksen liikevaihto ei ole yrittäjän kuukausipalkka"
-date:   2015-12-04 21:00
+date:   2015-12-03 21:05
 categories: yrittäminen
 image: /assets/article_images/canstockphoto8503194.jpg
 ---
